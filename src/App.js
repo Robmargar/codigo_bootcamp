@@ -39,7 +39,7 @@ function App() {
         </div>
       </div>
       <main className="Main">
-        <h1>Character List</h1>
+        <h1 className="Main-title">Character List</h1>
         <hr />
         <div className="Cards">
           {characters &&
